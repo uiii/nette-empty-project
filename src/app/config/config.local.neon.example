@@ -1,0 +1,12 @@
+parameters:
+    database:
+        host:
+        dbname:
+        user:
+        password:
+
+nette:
+
+services:
+
+factories:
